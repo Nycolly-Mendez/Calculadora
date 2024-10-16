@@ -1,0 +1,11 @@
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.deps.json
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.dll
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\bin\Debug\net8.0\ESFE.Calculadora.pdb
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.AssemblyInfoInputs.cache
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.AssemblyInfo.cs
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.dll
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\refint\ESFE.Calculadora.dll
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ESFE.Calculadora.pdb
+C:\Users\7280\Downloads\ESFE2\ESFE.Calculadora\obj\Debug\net8.0\ref\ESFE.Calculadora.dll
